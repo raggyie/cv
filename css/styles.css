@@ -11,7 +11,7 @@ h1{
     color:#F5F1DA;
 }
 h2{
-    color:#F8EFD4;
+    
 }
 
 p{
@@ -61,6 +61,7 @@ hr{
 }
 
 #programmer{
+    color:#F8EFD4;
     font-size: 2.5rem;
     font-weight: normal;
     font-family: 'Cairo', sans-serif;
