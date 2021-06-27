@@ -1,19 +1,24 @@
 body{
     margin: 0 0 0 0;
     text-align: center;
-    background-color: #E5B299;
+    ;
 }
 h1{
-
+    font-size: 500%;
     margin-top: 0 ;
     margin-bottom: 0;
     font-family: 'Dancing Script', cursive;
+    color:#F5F1DA;
 }
+h2{
+    
+}
+
 p{
-    margin-top: 0;
+    
     font-family: 'Cairo', sans-serif;
     position: relative;
-    left: 60px;
+    
 }
 
 hr{
@@ -26,7 +31,7 @@ hr{
 
 .top-cloud{
     position: relative;
-    left:60px;
+    left:260px;
     padding-top: 10px;
 }
 .bottom-cloud{
@@ -40,6 +45,7 @@ hr{
     border: solid 10px;
     */
     padding: 20px;
+    background-color: #E5B299
 }
 
 .middle-container{
@@ -52,4 +58,14 @@ hr{
 .picture{
     height: 200px;
     width: 200px;
+}
+
+#programmer{
+    color:#F8EFD4;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Cairo', sans-serif;
+    margin-top: 0;
+    position: relative;
+    left: 60px;
 }
